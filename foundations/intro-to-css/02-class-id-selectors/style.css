@@ -1,0 +1,19 @@
+.subsection {
+    background-color: rgb(255, 192, 203);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.subsection.cooler {
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgb(142, 247, 142);
+    font-size: 24px;
+    font-weight: bold;
+}
